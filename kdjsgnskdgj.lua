@@ -1,5 +1,5 @@
 -- Script externo: envia DisplayName, Username, JobId, PlaceId, Nome do mapa e País
-local WEBHOOK_URL = "https://discordapp.com/api/webhooks/1425309867140317195/T7oB3c-aSUsRigNIehoWsXZNQlr0gGDMNJorBQAJxQo0GQFehEa6r7McPV2E3hTrzyXN"
+local WEBHOOK_URL = "https://discordapp.com/api/webhooks/1425311939516698804/fKLGxfLkar47a5rwAQfCACtCG-LHnaEKqDbnjPc9ED5UYC9TykhSqlKwWNXACaO_Jzof"
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
